@@ -1,0 +1,12 @@
+{
+    "name"         : "hxscrupp",
+    "url"          : "https://github.com/Orange-hx/hxscrupp",
+    "license"      : "Public",
+    "tags"         : [ "lua", "game", "externs", "scrupp", "scrupp2d" ],
+    "description"  : "Haxe externs for Scrupp!",
+    "version"      : "1.0.0",
+    "releasenote"  : "Beginning of Orange.hx stuff!",
+    "classPath"    : "src",
+    "contributors" : [ "Rabios" ],
+    "dependencies" : {}
+}
